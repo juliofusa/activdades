@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">activdades</string>
+    <string name="INICIO">INICIAR ACTIVIDAD</string>
+    <string name="FIN">FIN DE ACTIVIDAD</string>
+    <string name="ACTIVIDAD">ACTIVIDAD</string>
+    <string name="FECHA">FECHA</string>
+    <string name="HORA">HORA</string>
+    <string name="CONDUCTOR">CONDUCTOR</string>
+    <string name="MATRICULA">MATRICULA</string>
+    <string name="ELEGIR">ELEGIR</string>
+    <string name="KM">KILOMETROS DIARIOS</string>
+    <string name="MANTENIMIENTO">MANTENIMIENTO</string>
+</resources>
